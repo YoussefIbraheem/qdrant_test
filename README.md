@@ -1,5 +1,3 @@
- (Due to technical issues, the search service is temporarily unavailable.)
-
 # **Qdrant Docker Test Instructions**  
 **A simple guide to verify Qdrant is working correctly using Docker**  
 
@@ -137,4 +135,3 @@ python test_qdrant.py
 ---
 
 **🎉 Success!** Qdrant is now correctly set up and verified.  
-Let me know if you encounter any issues! 🚀
